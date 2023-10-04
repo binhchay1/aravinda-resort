@@ -1,0 +1,37 @@
+.info-container .float-left{
+	width: 370px;
+	padding-right: 10px;
+}
+
+.form-container .form-horizontal .form-group{
+	margin-left: 0;
+	margin-right: 0;
+}
+.form-container label{
+	color: #1d1d1d;
+	font-weight: normal;
+	margin-bottom: 10px !important;
+}
+.form-container textarea{
+	max-width: 100%;
+}
+.form-container .form-control{
+	border-radius: 0;
+	border-color: #a1a1a1;
+}
+.form-container .help-block{
+	color: red;
+	font-style: italic;
+}
+.form-container input{
+	width: 100%;
+}
+.form-container .submit{
+	background: #5a8d8d;
+	color: #fff;
+	padding: 10px;
+	border: none;
+}
+.form-container .date-go, .form-container .date-come{
+	padding: 6px 12px;
+} 
